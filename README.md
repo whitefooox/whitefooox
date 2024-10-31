@@ -21,5 +21,5 @@ I'm Alexander!
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
 </p>
 
-<img align="left" alt="whitefooox" src="https://github-readme-stats.vercel.app/api?username=whitefooox&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&hide_title=true" />
+<img align="left" alt="whitefooox" src="https://github-readme-stats.vercel.app/api?username=whitefooox&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" />
 <img align="left" alt="whitefooox" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitefooox&layout=compact&hide_border=true&hide_title=true&card_width=200" />
